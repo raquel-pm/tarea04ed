@@ -1,7 +1,7 @@
 package cuentas;
 /**Prueba para commit
  * 
- * @author raque
+ * @author raquel
  *
  */
 public class Main {
